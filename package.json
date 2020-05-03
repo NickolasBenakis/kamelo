@@ -1,0 +1,14 @@
+{
+  "name": "full-stack-course",
+  "version": "0.0.1",
+  "description": "this is a course based app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nick Benakis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
